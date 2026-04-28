@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "env": {
-    "ANGEL_API_KEY": "fspMdQlz",
-    "ANGEL_CLIENT_CODE": "T205834",
-    "ANGEL_TOTP_SECRET": "DRKLJ7YBNN6QCYXXSIQO6SRO5Q",
-    "ANGEL_PIN": "2582"
-  }
-}
